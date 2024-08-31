@@ -3,8 +3,7 @@ import React from "react";
 const stats = [
   { label: "Years of experience", value: 8 },
   { label: "Projects completed", value: 4 },
-  { label: " mastered", value: 7 },
-  { label: "My Prof. Value", value: 452 },
+  { label: "My Prof. Value", value: 10 },
 ];
 
 const Stats = () => {
